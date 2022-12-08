@@ -1,5 +1,4 @@
 # Connecting-Watson
-...
 ## Structure
 
 ## Kindly follow the appropriate naming conventions
